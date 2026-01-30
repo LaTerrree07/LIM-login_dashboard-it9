@@ -12,6 +12,8 @@ If you don’t have an account yet, you can register first.
 
 Open the login page, then click the **Register** button. A registration form will appear. Fill out the required fields, then submit the form. After registering, your account can be used to log in.
 
+Note: Since there is no database yet, the registration is only for demonstration and may not permanently save your account details.
+
 2) Log in
 Go back to the login page and enter your username and password.
 
